@@ -1,0 +1,26 @@
+{
+  "name": "to-do-list-acceptance-m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammetikbalbayram/to-do-list-acceptance-m.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammetikbalbayram/to-do-list-acceptance-m/issues"
+  },
+  "homepage": "https://github.com/muhammetikbalbayram/to-do-list-acceptance-m#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1"
+  },
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
